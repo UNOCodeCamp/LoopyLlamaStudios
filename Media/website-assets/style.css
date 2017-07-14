@@ -1,6 +1,6 @@
 .jumbotron {
 	margin-bottom: 0;
-	background-color: #469eb4;
+	background-color:#38ff01;
 	color: white;
 }
 
@@ -18,11 +18,11 @@ hr {
 }
 
 #games-section {
-	background-color: #b45c46;
+	background-color: #0138ff;
 }
 
 #about-section {
-	background-color: #b44667;
+	background-color: #ff0138;
 	color: #e8e6e4;
 	font-weight: 300;
 }
